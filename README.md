@@ -1,7 +1,5 @@
 # pokemon-text-to-image-transformer-Stabble-Diffusion-
 
-# Pokemon Text-to-Image Generation using Transformer
-
 Proyek ini merupakan implementasi praktikum Deep Learning Lanjut untuk membangun model generatif **Text-to-Image** menggunakan arsitektur **Transformer** (inspirasi dari komponen Stable Diffusion). Model ini dilatih menggunakan dataset teks-gambar dari Hugging Face (Pokemon BLIP captions).
 
 ## 🚀 Fitur Utama
