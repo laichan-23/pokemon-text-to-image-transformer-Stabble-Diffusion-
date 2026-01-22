@@ -30,10 +30,8 @@ Contoh pengujian dengan prompt: `"a pink cute pokemon"`
 
 | Input Prompt | Output Image |
 | :--- | :--- |
-| "a pink cute pokemon" | 
-
-<img width="328" height="350" alt="image" src="https://github.com/user-attachments/assets/4e2ae994-fcd3-4725-af1e-a66cac9ab394" />
-
+| "a pink cute pokemon" |<img width="328" height="350" alt="image" src="https://github.com/user-attachments/assets/454c1ea6-b232-448d-ac6e-1dca57ec2491" />
+ |
 
 ### 🔍 Interpretasi Hasil
 Hasil gambar yang masih berupa **noise/abstrak** setelah 500 epoch adalah hal yang **normal** dalam pelatihan model generatif dari nol (*from scratch*). Hal ini dikarenakan:
